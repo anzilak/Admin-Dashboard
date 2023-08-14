@@ -1,0 +1,35 @@
+
+
+
+Admin dashboard ---------Angularb project -------work flow
+
+
+
+1.create project ---------- ng new admin-dashboard
+2. Run project ------------ng server/s (in project folder)
+3. install third party libraries
+           -angular material
+
+
+4.to use any component from material copy the api from particular component and paste it in app module.
+5.generate components
+
+    -header component
+    -footer
+    -side bar
+    -dashboard
+        -card
+        -area
+        -table
+        -pie-chart
+
+             -employee
+             -gallery
+             -contact
+             -lead
+
+
+@output------output decreator----child to parent data communication
+
+
+attribute directives
